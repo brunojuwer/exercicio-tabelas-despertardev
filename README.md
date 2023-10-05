@@ -1,4 +1,4 @@
-# Exercicio de tabelas
+# Atividade Prática - Tabelas HTML
 
 ## 1. Crie uma página HTML contendo as seguintes tabelas:
 
